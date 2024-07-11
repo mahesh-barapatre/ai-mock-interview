@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <div>mahesh</div>
-      <Button>mahesh ki 1lac job</Button>
+      <Button>mahesh ki c job</Button>
     </>
   );
 }
